@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.3b7e2b8e.css",
-    "main.js": "/static/js/main.2566e30d.js",
+    "main.js": "/static/js/main.a078f1b5.js",
     "static/media/ai.webp": "/static/media/ai.24e4295d214ff4cb4af0.webp",
-    "static/media/logo.webp": "/static/media/logo.d4cb28cf6fdee3848d2a.webp",
     "static/media/people.webp": "/static/media/people.ddaeb5f777604a41b0a2.webp",
+    "static/media/logo.svg": "/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "static/media/atlassian.webp": "/static/media/atlassian.d59583244eb05f9fb52d.webp",
     "static/media/dropbox.webp": "/static/media/dropbox.a2e996bb343aeb2e0a88.webp",
     "static/media/slack.webp": "/static/media/slack.5eaf25612c08f29b3184.webp",
@@ -12,10 +12,10 @@
     "static/media/google.webp": "/static/media/google.58afdccaff355b516c96.webp",
     "index.html": "/index.html",
     "main.3b7e2b8e.css.map": "/static/css/main.3b7e2b8e.css.map",
-    "main.2566e30d.js.map": "/static/js/main.2566e30d.js.map"
+    "main.a078f1b5.js.map": "/static/js/main.a078f1b5.js.map"
   },
   "entrypoints": [
     "static/css/main.3b7e2b8e.css",
-    "static/js/main.2566e30d.js"
+    "static/js/main.a078f1b5.js"
   ]
 }
